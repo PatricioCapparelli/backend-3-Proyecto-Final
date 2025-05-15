@@ -22,12 +22,12 @@
 					"raw": "{\n    \"users\": 10,\n    \"pets\": 20\n}"
 				},
 				"url": {
-					"raw": "http://localhost:4000/api/mocks/generateData",
+					"raw": "http://localhost:5000/api/mocks/generateData",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "4000",
+					"port": "5000",
 					"path": [
 						"api",
 						"mocks",
@@ -44,12 +44,12 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:4000/api/users",
+					"raw": "http://localhost:5000/api/users",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "4000",
+					"port": "5000",
 					"path": [
 						"api",
 						"users"
@@ -65,12 +65,12 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:4000/api/pets",
+					"raw": "http://localhost:5000/api/pets",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "4000",
+					"port": "5000",
 					"path": [
 						"api",
 						"pets"
@@ -86,12 +86,12 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:4000/api/mocks/mockingusers",
+					"raw": "http://localhost:5000/api/mocks/mockingusers",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "4000",
+					"port": "5000",
 					"path": [
 						"api",
 						"mocks",
